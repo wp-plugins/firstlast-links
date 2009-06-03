@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: First/last
+Plugin Name: First/last Links
 Plugin URI: http://singpolyma.net/plugins/firstlast-links/
 Description: Adds functions to get first and last post or paginated page
 Version: 0.1
